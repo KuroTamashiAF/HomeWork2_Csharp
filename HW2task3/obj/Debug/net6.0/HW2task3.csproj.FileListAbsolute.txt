@@ -1,0 +1,5 @@
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.csproj.AssemblyReference.cache
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.AssemblyInfoInputs.cache
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.AssemblyInfo.cs
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.csproj.CoreCompileInputs.cache
