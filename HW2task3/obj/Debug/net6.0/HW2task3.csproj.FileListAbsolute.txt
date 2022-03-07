@@ -3,3 +3,13 @@ C:\Users\Фёдоров Александр\Desktop\Учеба - Разработ
 C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.AssemblyInfoInputs.cache
 C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.AssemblyInfo.cs
 C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.csproj.CoreCompileInputs.cache
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\bin\Debug\net6.0\HW2task3.exe
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\bin\Debug\net6.0\HW2task3.deps.json
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\bin\Debug\net6.0\HW2task3.runtimeconfig.json
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\bin\Debug\net6.0\HW2task3.dll
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\bin\Debug\net6.0\HW2task3.pdb
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.dll
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\refint\HW2task3.dll
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.pdb
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\HW2task3.genruntimeconfig.cache
+C:\Users\Фёдоров Александр\Desktop\Учеба - Разработчик\C#\ДЗ\HW2\HW2task3\obj\Debug\net6.0\ref\HW2task3.dll

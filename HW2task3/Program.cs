@@ -20,8 +20,10 @@ switch (days)
         break;
     case 5:
         Console.WriteLine("Веденый номер дня являеться ПЯТНИЦОЙ (ОГОНЬ!!!) ");
+        break;
     case 6:
         Console.WriteLine("Веденый номер дня являеться СУББОТОЙ (Отсыпаемся после пятницы!) ");
+        break;
     default:
         Console.WriteLine("Дня с таким номером не существует");
         break;
